@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GmailClone</string>
+    <string name="app_title">CodePathMail</string>
+    <string name="load_more_btn">Load More Emails</string>
+</resources>
